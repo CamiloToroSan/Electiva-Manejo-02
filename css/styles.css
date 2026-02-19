@@ -1,0 +1,6 @@
+/* css/styles.css */
+:root{ --bg:#f7f9fc; --accent:#2b6cb0; --text:#222; }
+body{ font-family: Arial, sans-serif; background:var(--bg); color:var(--text); margin:0; padding:2rem; }
+header{ background:var(--accent); color:#fff; padding:1rem; border-radius:6px; }
+button{ background:var(--accent); color:#fff; border:none; padding:.6rem 1rem; border-radius:4px; cursor:pointer; }
+button:hover{ opacity:0.9; }
